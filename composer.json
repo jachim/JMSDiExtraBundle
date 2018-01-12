@@ -42,10 +42,10 @@
         "symfony/templating": "~2.3|^3.3|^4.0"
     },
     "repositories": [
-        {
-            "type": "vcs",
-            "url":  "git@github.com:jachim/JMSAopBundle.git"
-        }
+     {
+        "type": "vcs",
+        "url":  "git@github.com:jachim/JMSAopBundle.git"
+     }
     ],
     "autoload": {
         "psr-4": { "JMS\\DiExtraBundle\\": "" }
