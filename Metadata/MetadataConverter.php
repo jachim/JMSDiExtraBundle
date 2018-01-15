@@ -20,8 +20,8 @@ namespace JMS\DiExtraBundle\Metadata;
 
 use JMS\DiExtraBundle\Exception\InvalidAnnotationException;
 use Metadata\ClassHierarchyMetadata;
+use Symfony\Component\DependencyInjection\ChildDefinition;
 use Symfony\Component\DependencyInjection\Definition;
-use Symfony\Component\DependencyInjection\DefinitionDecorator;
 use Symfony\Component\DependencyInjection\Reference;
 
 class MetadataConverter
@@ -75,7 +75,7 @@ class MetadataConverter
         if (null === $previous && null === $classMetadata->parent) {
             $definition = new Definition();
         } else {
-            $definition = new DefinitionDecorator(
+            $definition = new ChildDefinition(
                 $classMetadata->parent ?: $previous->id
             );
         }

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4378283-8afb-457c-9ea5-51eff97875fb" name="Default" comment="" />
+    <ignored path="JMSDiExtraBundle.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="JMSDiExtraBundle" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="IntegrationPass.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DependencyInjection/Compiler/IntegrationPass.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.43069306">
+              <caret line="60" column="55" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/Metadata/MetadataConverter.php" />
+        <option value="$PROJECT_DIR$/DependencyInjection/Compiler/IntegrationPass.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JMSDiExtraBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JMSDiExtraBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JMSDiExtraBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="FullScreen" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4378283-8afb-457c-9ea5-51eff97875fb" name="Default" comment="" />
+      <created>1516000443728</created>
+      <option name="number" value="Default" />
+      <updated>1516000443728</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3996194" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921028" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58192956">
+          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+          <folding>
+            <marker date="1516000989000" expanded="true" signature="0:2007" placeholder="{&quot;name&quot;: &quot;jms/di-extra-bundle&quot;...}" />
+            <marker date="1516000989000" expanded="true" signature="310:424" placeholder="[...]" />
+            <marker date="1516000989000" expanded="true" signature="320:418" placeholder="{&quot;name&quot;: &quot;Johannes M. Schmitt&quot;...}" />
+            <marker date="1516000989000" expanded="true" signature="441:845" placeholder="{&quot;php&quot;: &quot;~5.3|~7.0&quot;...}" />
+            <marker date="1516000989000" expanded="true" signature="866:1683" placeholder="{&quot;symfony/validator&quot;: &quot;~2.3|~3.0|^4.0&quot;...}" />
+            <marker date="1516000989000" expanded="true" signature="1705:1806" placeholder="[...]" />
+            <marker date="1516000989000" expanded="true" signature="1712:1800" placeholder="{&quot;type&quot;: &quot;vcs&quot;...}" />
+            <marker date="1516000989000" expanded="true" signature="1824:1879" placeholder="{...}" />
+            <marker date="1516000989000" expanded="true" signature="1894:1973" placeholder="{...}" />
+            <marker date="1516000989000" expanded="true" signature="1920:1967" placeholder="{&quot;dev-master&quot;: &quot;1.8-dev&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Annotation/SecurityFunction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47029704">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding>
+            <marker date="1516000468000" expanded="false" signature="9:626" placeholder="..." />
+            <marker date="1516000468000" expanded="true" signature="674:769" placeholder=" @Annotation ..." />
+            <marker date="1516000468000" expanded="true" signature="800:885" placeholder="{...}" />
+            <marker date="1516000468000" expanded="true" signature="810:859" placeholder=" @Required ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Metadata/MetadataConverter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24752475">
+          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+          <folding>
+            <marker date="1516002159000" expanded="false" signature="9:626" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="673:931" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="956:5857" placeholder="{...}" />
+            <marker date="1516002159000" expanded="true" signature="991:1178" placeholder=" Converts class hierarchy metadata to definition instances. ..." />
+            <marker date="1516002159000" expanded="true" signature="1242:2407" placeholder="{...}" />
+            <marker date="1516002159000" expanded="true" signature="1370:2370" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="1513:2220" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="1724:1919" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="1776:1900" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="1782:1899" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="1927:2132" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="2011:2029" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="2074:2092" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="2507:5855" placeholder="{...}" />
+            <marker date="1516002159000" expanded="true" signature="2582:2635" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="2643:2770" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="2871:2938" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="2986:3055" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="3103:3172" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="3222:3295" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="3346:3421" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="3471:3781" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="3534:3705" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="3890:3977" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="4212:4992" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="4326:4540" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="4612:4784" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="5092:5175" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="5220:5311" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="5369:5516" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="5436:5506" placeholder="..." />
+            <marker date="1516002159000" expanded="true" signature="5564:5819" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/doctrine/doctrine-cache-bundle/DependencyInjection/CacheProviderLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5445545">
+          <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+          <folding>
+            <marker date="1516001306000" expanded="false" signature="78:174" placeholder="..." />
+            <marker date="1516001306000" expanded="true" signature="179:263" placeholder=" Cache provider loader ..." />
+            <marker date="1516001306000" expanded="true" signature="291:4761" placeholder="{...}" />
+            <marker date="1516001306000" expanded="true" signature="301:548" placeholder=" @param string                                                    $name ..." />
+            <marker date="1516001306000" expanded="true" signature="639:1421" placeholder="{...}" />
+            <marker date="1516001306000" expanded="true" signature="1028:1119" placeholder="..." />
+            <marker date="1516001306000" expanded="true" signature="1170:1233" placeholder="..." />
+            <marker date="1516001306000" expanded="true" signature="1298:1414" placeholder="..." />
+            <marker date="1516001306000" expanded="true" signature="1430:1680" placeholder=" @param \Symfony\Component\DependencyInjection\ContainerBuilder   $container ..." />
+            <marker date="1516001306000" expanded="true" signature="1770:2710" placeholder="{...}" />
+            <marker date="1516001306000" expanded="true" signature="1937:2168" placeholder="..." />
+            <marker date="1516001306000" expanded="true" signature="2213:2488" placeholder="..." />
+            <marker date="1516001306000" expanded="true" signature="2386:2478" placeholder="..." />
+            <marker date="1516001306000" expanded="true" signature="2536:2591" placeholder="..." />
+            <marker date="1516001306000" expanded="true" signature="2719:2992" placeholder=" @param string                                                    $type ..." />
+            <marker date="1516001306000" expanded="true" signature="3070:3208" placeholder="{...}" />
+            <marker date="1516001306000" expanded="true" signature="3217:3414" placeholder=" @param string                                                    $type ..." />
+            <marker date="1516001306000" expanded="true" signature="3495:3707" placeholder="{...}" />
+            <marker date="1516001306000" expanded="true" signature="3590:3624" placeholder="..." />
+            <marker date="1516001306000" expanded="true" signature="3716:3912" placeholder=" @param string                                                    $type ..." />
+            <marker date="1516001306000" expanded="true" signature="3992:4350" placeholder="{...}" />
+            <marker date="1516001306000" expanded="true" signature="4087:4190" placeholder="..." />
+            <marker date="1516001306000" expanded="true" signature="4359:4421" placeholder=" @param string $type ..." />
+            <marker date="1516001306000" expanded="true" signature="4477:4547" placeholder="{...}" />
+            <marker date="1516001306000" expanded="true" signature="4556:4618" placeholder=" @param string $type ..." />
+            <marker date="1516001306000" expanded="true" signature="4681:4759" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DependencyInjection/Compiler/IntegrationPass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43069306">
+          <caret line="60" column="55" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
