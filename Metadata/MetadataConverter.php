@@ -139,7 +139,7 @@ class MetadataConverter
             @trigger_error('ClassMetadata::$initMethod is deprecated since version 1.7 and will be removed in 2.0. Use ClassMetadata::$initMethods instead.', E_USER_DEPRECATED);
             $definition->addMethodCall($classMetadata->initMethod);
         }
-
+        $definition->setPrivate(false);
         return $definition;
     }
 }
